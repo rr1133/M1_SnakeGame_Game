@@ -15,7 +15,7 @@ https://en.wikipedia.org/wiki/Snake_(video_game_genre)
 - Fun Game.
 - For each fruit eat getting some points.
 - Snake size get larger for each incerment of points.
-- No intruption of wall.
+- Game END when snake touch boundary.
 
 # SWOT ANALYSIS
 
