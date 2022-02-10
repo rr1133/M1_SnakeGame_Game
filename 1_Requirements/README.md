@@ -19,4 +19,5 @@ https://en.wikipedia.org/wiki/Snake_(video_game_genre)
 
 # SWOT ANALYSIS
 
+![SWAT ANALYSIS](https://user-images.githubusercontent.com/81153072/153459138-9d8d7f63-5812-4188-80b9-3bab4f7a9efa.png)
 
