@@ -14,10 +14,35 @@ https://en.wikipedia.org/wiki/Snake_(video_game_genre)
 
 - Fun Game.
 - For each fruit eat getting some points.
-- Snake size get larger for each incrment of points.
+- Snake size get larger for each incerment of points.
 - No intruption of wall.
 
 # SWOT ANALYSIS
 
 ![SWAT ANALYSIS](https://user-images.githubusercontent.com/81153072/153459138-9d8d7f63-5812-4188-80b9-3bab4f7a9efa.png)
 
+# 4W's and 1'H
+
+## WHO 
+- This is a game accessible to anyone who wants to play.
+## What
+- This can be implemented by user for fun purpose in their free time.
+## Where
+- Easly accessible any where.
+## When
+- Any time when user want to play.
+## How
+- By creating a Snake Game using C programming language.
+
+# Detail Requirements
+
+## High Level Requirements
+| ID | Discription | Catagory | Status |
+| -- | ----------- | -------- | ------ |
+| HR01 | User should able to access the game | Technical | Implemented |
+| HR02 | User should able to trace movement of snake until snake eat fruit | Technical | Implemented |
+| HR03 | Each bite to snake to fruit gain same points | Technical | Implemented |
+| HR04 | Size of snake get increase after each bite to fruit | Technical | Implemented |
+
+## Low Level Requirements
+| ID | Discription | Catagory | Status |
