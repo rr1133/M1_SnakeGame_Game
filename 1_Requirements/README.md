@@ -1,6 +1,6 @@
 # INTRODUCTION
 
-The objecive of this project to develop simple Snake Game using C Programming Language for the purpose of fun. In this project their is no usage of any graphics, in this game their is a sanke represented by any Alphabetical Letters is surrounded by Wall and the main motive of snake is to eat fruit which is present inside the wall.
+The objective of this project to develop simple Snake Game using C Programming Language for the purpose of fun. In this project their is no usage of any graphics, in this game their is a snake represented by any Alphabetical Letters is surrounded by Wall and the main motive of snake is to eat fruit which is present inside the wall.
 
 # RESEARCH
 
