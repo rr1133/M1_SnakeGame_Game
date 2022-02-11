@@ -47,6 +47,7 @@ https://en.wikipedia.org/wiki/Snake_(video_game_genre)
 | HR06 | Resume game | Technical | Implemented |
 ## Low Level Requirements
 | HLR | LLR | Discription | Catagory | Status |
+| --- | --- | ----------- | -------- | ------- | 
 | HR01 | LR01 | Any alphabetical letter present on kyboard | Technical | Implemented |
 | HR02 | LR02 | A=LEFT ; S=RIGHT ; W=UP ; Z=DOWN | Technical | Implemented |
 | HR03 | LR03 | Each bite of snake to fruit give increment in size of snake | Technical | Implemented |
