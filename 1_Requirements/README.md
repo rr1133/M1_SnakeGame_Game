@@ -15,7 +15,7 @@ https://en.wikipedia.org/wiki/Snake_(video_game_genre)
 - Fun Game.
 - For each fruit eat getting some points.
 - Snake size get larger for each incerment of points.
-- Game END when snake touch boundary.
+- Game END when snake touch boundary or hit by its own body.
 
 # SWOT ANALYSIS
 
@@ -39,10 +39,18 @@ https://en.wikipedia.org/wiki/Snake_(video_game_genre)
 ## High Level Requirements
 | ID | Discription | Catagory | Status |
 | -- | ----------- | -------- | ------ |
-| HR01 | User should able to access the game | Technical | Implemented |
-| HR02 | User should able to trace movement of snake until snake eat fruit | Technical | Implemented |
-| HR03 | Each bite to snake to fruit gain same points | Technical | Implemented |
-| HR04 | Size of snake get increase after each bite to fruit | Technical | Implemented |
-
+| HR01 | Initializes the game using a button | Technical | Implemented |
+| HR02 | Control the movement of snake | Technical | Implemented |
+| HR03 | Increment in size of snake | Technical | Implemented |
+| HR04 | Increment in score | Technical | Implemented |
+| HR05 | GAME OVER| Technical | Implemnted |
+| HR06 | Resume game | Technical | Implemented |
 ## Low Level Requirements
-| ID | Discription | Catagory | Status |
+| HLR | LLR | Discription | Catagory | Status |
+| HR01 | LR01 | Any alphabetical letter present on kyboard | Technical | Implemented |
+| HR02 | LR02 | A=LEFT ; S=RIGHT ; W=UP ; Z=DOWN | Technical | Implemented |
+| HR03 | LR03 | Each bite of snake to fruit give increment in size of snake | Technical | Implemented |
+| HR04 | LR04 | Each bite of snake to fruit give increment in score of 10 | Technical | Implemented |
+| HR05 | LR05 | Either snake hit the wall or hit their own body | Technical | Implemented |
+| HR06 | LR06 | Press Y to resume game | Technical | Implemented |
+
