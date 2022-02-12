@@ -7,8 +7,10 @@ The objective of this project to develop simple Snake Game using C Programming L
 [Where Snake Come from]
 The concept of Snake originated from the 1976 arcade game Blockade, developed by a British company called Gremlin Interactive, which shut down in 1984.
 Blockade was designed as a two-player game in which each would guide their own snakes, leaving a solid line behind them.
-https://theprint.in/features/nokias-snake-the-mobile-game-that-became-an-entire-generations-obsession/462873/
-https://en.wikipedia.org/wiki/Snake_(video_game_genre)
+
+- [https://theprint.in/features/nokias-snake-the-mobile-game-that-became-an-entire-generations-obsession/462873/]
+
+- [https://en.wikipedia.org/wiki/Snake_(video_game_genre)]
 
 # FEATURES
 
